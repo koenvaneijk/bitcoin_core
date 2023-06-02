@@ -1,3 +1,8 @@
+"""
+bitcoin_core.py - Pure Python module for interacting with a Bitcoin Core node
+Author: Koen van Eijk <vaneijk.koen@gmail.com>
+Licensed under AGPLv3
+"""
 import json
 import logging
 import os
